@@ -20,7 +20,7 @@ hrpush:	build
 
 inc:	build
 		# scp _site/images/saison-*.jpg $(SERVER):public_html/images
-		scp  -r _site/celiac/* $(SERVER):public_html/celiac
+		scp  -r _site/abuse/* $(SERVER):public_html/abuse
 
 
 sva:		build
