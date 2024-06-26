@@ -16,6 +16,8 @@ Venmo ID: @Satnam-Singh-01
 
 ## Zelle
 
+Look me up with the phone number 650 898 3421 or use this QR code.
+
 ![Zelle](zelle.jpg)
 
 ## Apple Cash
