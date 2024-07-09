@@ -16,7 +16,7 @@ Venmo ID: @Satnam-Singh-01
 
 ## Zelle
 
-Look me up with the phone number 650 898 3421, or the email address satnam65902@gmail.com, or use this QR code.
+Look me up with the phone number 650 898 3421, or the email address satnam6502@gmail.com, or use this QR code.
 
 ![Zelle](zelle.jpg)
 
