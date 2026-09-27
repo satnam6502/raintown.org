@@ -12,7 +12,5 @@ This tutorial assumes knowledge of digital hardware design in SystemVerilog.
 
 Initially let's work with circuits that have just one clock input and a synchronous reset.
 
-  <body>
-    <canvas id="drawing" width="500" height="200" style="border:1px solid grey"></canvas>
-    <script src="drawing.js"></script>
-  </body>
+  <canvas id="drawing" width="500" height="200" style="border:1px solid grey"></canvas>
+  <script src="{{ "/sva/drawing.js" | relative_url }}"></script>

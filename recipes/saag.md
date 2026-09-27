@@ -1,10 +1,7 @@
 ---
 layout: personal
-image: saag.jpg
 ---
 # Saag
-
-<p align="center"> <img src="saag.jpg"></p>
 
 * 1.2kg of greens e.g. baby spinach leaves, broccoli rabe, brussels sprouts, mustard greens and a fistfull of cilantro. Fresh methi (fenugreek leaves) if possible, some dried otherwise. Buy whatever is cheap and in season.
 * 20g sea salt (or 40g of Kosher salt).

@@ -1,4 +1,4 @@
-pulseWidth = 20;
+const pulseWidth = 20;
 
 function drawClock(ctx, x, y, cycles) {
 
@@ -9,7 +9,7 @@ function drawClock(ctx, x, y, cycles) {
     ctx.lineWidth = 1;
     ctx.strokeStyle = 'blue';
     ctx.beginPath();
-    ox = x + 20;
+    const ox = x + 20;
     ctx.moveTo(ox , y);
     for (let i = 0; i < cycles; i++) {
         ctx.lineTo(ox+i*2*pulseWidth, y - pulseWidth);
