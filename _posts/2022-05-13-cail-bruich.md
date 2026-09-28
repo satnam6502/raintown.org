@@ -4,8 +4,7 @@ title: Cail Bruich
 description: Birthday dinner at the one star Glasgow restaurant Cail Bruich.
 permalink: /cail-bruich/
 image: "/images/cb-nibble3.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Cail Bruich
 13 May 2022. Joint birthday lunch for Satnam and Kiran.

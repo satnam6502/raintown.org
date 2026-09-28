@@ -4,8 +4,7 @@ title: "Aloo Baingan"
 description: "Aubergine and potato comfort food."
 permalink: /aloo_baingan/
 image: "/images/aloo_baingan.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Aloo Baingan
 

@@ -4,8 +4,7 @@ title: Crispy Spicy Okra
 description: Crunchy crispy okra that converts okra (lady finger) haters.
 permalink: /crispy-spicy-okra/
 image: "images/crispy-spicy-okra.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Crispy Spicy Okra
 I've made this cripsy spicy okra dish for guests who said they don't like okra, but said they did like this version. I don't like slimey okra, and although the cooking process might involve a slimey stage it is important to keep cooking past this stage until the okra becomes cripsy and cruchy.

@@ -4,6 +4,7 @@ title:  "Postcard From The Valley"
 description: "A letter I wrote about my move to Silicon Valley in 1998"
 image: "images/googleplex.jpg"
 permalink: /valley-postcard/
+author: Satnam Singh
 ---
 # Postcard From The Valley
 

@@ -18,7 +18,7 @@ A column layout combinator will be used later to tile several one-bit adders ver
 
 <p align="center"> <img src="adder1_tile.jpg"></p>
 
-This four-sided tile represents a circuit with input `((a,b), cin)` because `(a,b)` is the left input and cin in the bottom input. This tile also has the output `(sum, cout)` because sum is the right `output` and `cout` is the top output. This fixes the type for this one-bit adder adder tile which can now be described as a Lava netlist as follows:
+This four-sided tile represents a circuit with input `((a,b), cin)` because `(a,b)` is the left input and cin in the bottom input. This tile also has the output `(sum, cout)` because sum is the right `output` and `cout` is the top output. This fixes the type for this one-bit adder tile which can now be described as a Lava netlist as follows:
 
 ```haskell
 oneBitAdder :: (Bit, (Bit, Bit)) -> (Bit, Bit)

@@ -6,7 +6,6 @@ logo: images/mad_scientist_small.jpg
 url: https://raintown.org
 exclude:
   - Makefile
-  - misc.sh
   - push.sh
   - vendor
   - Gemfile

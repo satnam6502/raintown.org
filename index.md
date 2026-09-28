@@ -12,5 +12,5 @@ This is my personal website which is mainly about cooking, food and whisky. For 
 ## Raintown
 This domain name is inspired by the Deacon Blue album of the same name. Glasgow is indeed a very rain town.
 
-<p align="center"> <img src="images/raintown.jpg"></p>
+<p align="center"> <img src="images/raintown.jpg" alt="Deacon Blue Raintown album cover showing the Glasgow skyline"></p>
 
