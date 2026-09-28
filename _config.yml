@@ -7,6 +7,7 @@ url: https://raintown.org
 exclude:
   - Makefile
   - push.sh
+  - README.md
   - vendor
   - Gemfile
   - Gemfile.lock
