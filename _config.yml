@@ -17,3 +17,7 @@ footer-links:
 twitter:
   username: satnam6502
   card: summary_large_image
+sass:
+  sourcemap: never
+  quiet_deps: true
+  silence_deprecations: [import]

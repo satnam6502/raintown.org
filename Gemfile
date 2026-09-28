@@ -1,21 +1,14 @@
 source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+
+# Requires Ruby >= 2.7 (Jekyll 4.4). Run with `bundle exec`, e.g. `make serve`.
+gem "jekyll", "~> 4.4"
 gem "jekyll-theme-minimal"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+
 group :jekyll_plugins do
   gem "jekyll-seo-tag"
+  # Previously enabled implicitly by the github-pages gem; the site relies on them.
+  gem "jekyll-relative-links"       # rewrites links to .md files, e.g. lava/index.md
+  gem "jekyll-titles-from-headings" # page titles from the first heading when no title: is set
 end
 
 gem "webrick"
-

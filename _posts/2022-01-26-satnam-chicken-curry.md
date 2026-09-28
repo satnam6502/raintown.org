@@ -3,7 +3,7 @@ layout: personal
 title: Satnam's Chicken Curry
 description: Based on my mother's chicken curry.
 permalink: /chicken-curry/
-image: "images/chicken-curry.jpg"
+image: "/images/chicken-curry.jpg"
 author: Satnam Singh
 ---
 # Satnam's Chicken Curry
