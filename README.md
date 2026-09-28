@@ -15,6 +15,12 @@ The site is built with [Jekyll](https://jekyllrb.com/) 4 using the `jekyll-theme
 
 Historical note: the previous deployment copied the site to user `raintow`, folder `domains/raintown.org/public_html`. That setup is no longer used.
 
+### The `/talks/` folder
+
+[raintown.org/talks/](https://raintown.org/talks/) exists only on oban, in `public_html/talks/`. It is not in this repository and is not built by Jekyll, so it has no copy under version control here; take care when changing anything under `public_html` on the server. Other pages link to it (for example the Ross Anderson post).
+
+**TODO:** at some point the talks folder needs to be properly integrated, either into this site (as Jekyll source in this repository) or into the professional site [satnam6502.github.io](https://satnam6502.github.io). If it moves to satnam6502.github.io, add a redirect from `/talks/` on oban so existing links keep working.
+
 ## Layout
 
 | Path | Contents |
