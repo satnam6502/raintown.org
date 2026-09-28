@@ -6,11 +6,14 @@ The site is built with [Jekyll](https://jekyllrb.com/) using the `jekyll-theme-m
 
 ## Hosting
 
-> **The website is deployed to the DigitalOcean droplet `oban.raintown.org`.**
-> It is **not** served by GitHub Pages. This repository only holds the source;
-> nothing is published until the built site is copied to oban.
+> **The website is served by the web server on the DigitalOcean droplet
+> `oban.raintown.org`.** It is **not** served by GitHub Pages. This repository
+> only holds the source; nothing is published until the built site is copied
+> to oban.
 
-`raintown.org` and `www.raintown.org` both resolve to oban (178.128.162.15), which serves the site with Apache. The server also hosts pages that are not in this repository (for example `/talks/`), which is why the deploy never deletes files on the server.
+`raintown.org` and `www.raintown.org` both resolve to oban (178.128.162.15), which serves the site with Apache from `satnam@oban.raintown.org:public_html`. The server also hosts pages that are not in this repository (for example `/talks/`), which is why the deploy never deletes files on the server.
+
+Historical note: the previous deployment copied the site to user `raintow`, folder `domains/raintown.org/public_html`. That setup is no longer used.
 
 ## Layout
 
@@ -42,7 +45,7 @@ make build     # one-off build into _site/
 make push
 ```
 
-This builds the site and runs `push.sh`, which uses `rsync` to copy `_site/` to oban (`raintow@raintown.org:domains/raintown.org/public_html`). It needs SSH access to oban. The sync deliberately does not use `--delete`, so pages that exist only on the server are left alone. It also means that renaming or removing a page here leaves the old copy on the server until you delete it there by hand.
+This builds the site and runs `push.sh`, which uses `rsync` to copy `_site/` to oban (`satnam@oban.raintown.org:public_html`). It needs SSH access to oban as `satnam`. The sync deliberately does not use `--delete`, so pages that exist only on the server are left alone. It also means that renaming or removing a page here leaves the old copy on the server until you delete it there by hand.
 
 ## Code review
 
