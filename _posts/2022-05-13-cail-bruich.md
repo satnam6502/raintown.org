@@ -1,7 +1,7 @@
 ---
 layout: personal
 title: Cail Bruich
-description: Birthday dinner at the one star Glasgow restaurnt Cail Bruich.
+description: Birthday dinner at the one star Glasgow restaurant Cail Bruich.
 permalink: /cail-bruich/
 image: "/images/cb-nibble3.jpg"
 tags:

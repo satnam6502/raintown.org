@@ -45,4 +45,4 @@ I've switched to doing similar kinds of circuit design using a Lava-like DSL emb
 allows us to prove properties about our circuits and have machine checked proofs about the laws of combinator composition.
 We call this system Cava (Coq + Lava) which is produced as part of the [Silver Oak](https://github.com/project-oak/oak-hardware) project at Google Research.
 
-Next section: [Netlists in Lava](netlists)
+Next section: [Netlists in Lava](netlists.html)

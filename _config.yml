@@ -3,7 +3,14 @@ title: Satnam Singh
 layout: personal
 description: Satnam Singh's personal website
 logo: images/mad_scientist_small.jpg
-url: https://raintown.org/
+url: https://raintown.org
+exclude:
+  - Makefile
+  - misc.sh
+  - push.sh
+  - vendor
+  - Gemfile
+  - Gemfile.lock
 footer-links:
   github: satnam6502
   twitter: satnam6502

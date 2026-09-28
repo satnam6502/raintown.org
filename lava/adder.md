@@ -92,4 +92,4 @@ The Virtex layout produced for `registeredAdder 4` is shown below.
 
 <p align="center"> <img src="radd4_floorplan.jpg"></p>
 
-Next section: [An Adder Tree in Lava](adder_tree)
+Next section: [An Adder Tree in Lava](adder_tree.html)

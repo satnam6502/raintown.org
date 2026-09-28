@@ -107,4 +107,4 @@ The `row` combinator composes tiles horizontally from left to right and is based
 
 <p align="center"> <img src="hex.jpg"></p>
 
-Next section: [An Adder Example](adder)
+Next section: [An Adder Example](adder.html)

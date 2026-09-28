@@ -76,7 +76,7 @@ The processing element of the 1D systolic FIR is shown below. Both the `x` value
 
 <p align="center"> <img src="pe_holdup.jpg"></p>
 
-This circuit can be specified by the Lava code below which makes use of [A Constant Coefficient Multiplier Core in Lava](kcm) described in the following section.
+This circuit can be specified by the Lava code below which makes use of [A Constant Coefficient Multiplier Core in Lava](kcm.html) described in the following section.
 
 ```haskell
 holdupPE clk k
@@ -118,11 +118,11 @@ Although the semi-systolic filter is not recommended for FPGA implementation we 
 
 This architecture can not be directly described by the Lava combinators introduced so far because there is both left to right and right to left data-flow through each block. To help describe such communication patterns we introduce a new combinator called two-way serial and written as `><`:
 
-<p align="center"> <img src="two_way_serial.jpg"></p>
+<p align="center"> <img src="sorter/two_way_serial.jpg"></p>
 
 This combinator can then be used to describe a combinator called `twoWayRow` for the serial composition of many identical blocks that have two-way data-flow:
 
-<p align="center"> <img src="two_way_row.jpg"></p>
+<p align="center"> <img src="sorter/two_way_row.jpg"></p>
 
 The definition of `twoWayRow` is:
 
@@ -130,4 +130,4 @@ The definition of `twoWayRow` is:
 twoWayRow = foldl1 (><)
 ```
 
-Next section: [A Constant Coefficient Multiplier Core in Lava](kcm)
+Next section: [A Constant Coefficient Multiplier Core in Lava](kcm.html)

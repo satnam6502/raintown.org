@@ -38,7 +38,7 @@ The halve function splits a list into two halves which are returned in a two ele
 
 It is also useful to be able to perform the inverse function of riffle called `unriffle`. This circuit can be thought of as the reflection of the riffle circuit along a vertical axis as shown below.
 
-<p align="center"> <img src="unriffle.jpg"></p>
+<p align="center"> <img src="../unriffle.jpg"></p>
 
 The definition of `unriffle` in Lava is given below.
 
@@ -158,4 +158,4 @@ Some instances of these butterfly networks were implemented on a XCV300 FPGA and
 
 <p align="center"> <img src="chipscope_bfly.jpg"></p>
 
-Next section: [A 1D Systolic Finite Impulse Response Filter](fir)
+Next section: [A 1D Systolic Finite Impulse Response Filter](../fir.html)

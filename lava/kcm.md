@@ -159,4 +159,4 @@ On a XCV300-4-BG432 part this circuit runs at a speed of at least 196MHz. The la
 
 The 4-bit multiplications occur in the rectangular block on the left and the weighted adder tree is shown on the right hand side of the picture. On a XCV300-4-BG432 this circuit operates at a speed of at least 130MHz. Many other layouts are possible e.g. to place the 4-bit multiplications closer to their corresponding adders at the leaves of the adder tree.
 
-Next section: [Xilinx Lava Tutorials](old_tutorials)
+Next section: [Xilinx Lava Tutorials](old_tutorials.html)

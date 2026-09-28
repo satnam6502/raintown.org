@@ -92,4 +92,4 @@ muxf7 :: (Bit, (Bit, Bit)) -> Bit
 muxf8 :: (Bit, (Bit, Bit)) -> Bit
 ```
 
-Next section: [Layout in Lava](layout)
+Next section: [Layout in Lava](layout.html)
