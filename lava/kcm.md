@@ -46,7 +46,7 @@ The first parameter to this function is coeif which is the constant coefficient.
 [coeif * i | i <- [0..2^nr_addrs-1]]
 ```
 
-which for an address less than four bits will have less than 16 elements. Then the pad_width function is used to add zero elements to end of the list to bring the length of the list up to 16. The result is bound to the variable name multiplication_results which is examined to find the largest product which in turn is used to determine how many output bits are required (`maxwidth`). Now the product can be computed by by forming a 16 element table with `maxwidth` output bits using the `rom16x` function. A singed four-bit KCM can be built in a similar manner (this time using sign extension on the input bits).
+which for an address less than four bits will have less than 16 elements. Then the pad_width function is used to add zero elements to end of the list to bring the length of the list up to 16. The result is bound to the variable name multiplication_results which is examined to find the largest product which in turn is used to determine how many output bits are required (`maxwidth`). Now the product can be computed by forming a 16 element table with `maxwidth` output bits using the `rom16x` function. A signed four-bit KCM can be built in a similar manner (this time using sign extension on the input bits).
 
 To make an unsigned KCM the following steps are taken:
 

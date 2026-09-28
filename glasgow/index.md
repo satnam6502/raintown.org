@@ -32,7 +32,7 @@ Low key bars with plenty of locals.
 ## Sights
 * [Kelvingrove Art Gallery and Museum](https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum)
 * [Hunterian Museum](https://www.gla.ac.uk/hunterian/)
-* [Mackintosh House](https://www.gla.ac.uk/hunterian/collections/permanentdisplays/themackintoshhouse/)
+* [Mackintosh House](https://www.gla.ac.uk/hunterian/visit/)
 * [Riverside Museum](https://www.glasgowlife.org.uk/museums/venues/riverside-museum)
 * [The Burrell Collection](https://burrellcollection.com/)
 * [Pollock House](https://www.nts.org.uk/visit/places/pollok-house)

@@ -4,8 +4,7 @@ title: "Chicken Tikka Masala: Marks and Spencer vs. Waitrose Ready Meals"
 description: "Taste test to compare two chicken tikka masala ready meals: Marks and Spencer vs. Waitrose."
 permalink: /ctm-ms-waitrose/
 image: "/images/ctm-ms-waitrose.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Chicken Tikka Masala: Marks and Spencer vs. Waitrose Ready Meals
 20 February 2022
@@ -15,7 +14,7 @@ tags:
 ![M&S vs.Waitrose](/images/ctm-ms-waitrose.jpg)
 
 ## Taste Test Comparison
-The M&S "Our Best Ever" version had a thicker creamier bolder finish and is sweeter than the Waitrose version. CTM is typically a fairly mild dish which is sometimes ruined with too much cream (I don't use any cream in [my own CTM recipe](http://raintown.org/ctm)). I felt the M&S CTM had a deeper and more complex multi-layered flavour, with the "garam" (warm) spices showing through distinctively (e.g. the coriander, cumin, mace, nutmeg, cloves and fennel). The mixture of single cream and coconut milk helps to give the sauce a thick creamy velvety finish and the addition of fenugreek leaves adds a nice lift (something I often do with my own Indian chicken dishes). I also like the use of whole spices like green cardamom pods and cloves.
+The M&S "Our Best Ever" version had a thicker creamier bolder finish and is sweeter than the Waitrose version. CTM is typically a fairly mild dish which is sometimes ruined with too much cream (I don't use any cream in [my own CTM recipe](/ctm/)). I felt the M&S CTM had a deeper and more complex multi-layered flavour, with the "garam" (warm) spices showing through distinctively (e.g. the coriander, cumin, mace, nutmeg, cloves and fennel). The mixture of single cream and coconut milk helps to give the sauce a thick creamy velvety finish and the addition of fenugreek leaves adds a nice lift (something I often do with my own Indian chicken dishes). I also like the use of whole spices like green cardamom pods and cloves.
 
 The Waitrose version was lighter (it uses half fat cream and yogurt), a bit more aromatic and was less sweet. It had a bit more umami, perhaps due to the use of tomato paste versus just tomatoes in the M&S version. The Waitrose version also uses cashew nuts, lending a finish of pine wood and peach stones with lingering cinnamon and ginger. The M&S version does not use coriander leaves but the Waitrose version does, which is a consideration for people that can't eat coriander (due to the soap problem).
 

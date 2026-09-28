@@ -4,8 +4,7 @@ title: Satnam's Chicken Curry
 description: Based on my mother's chicken curry.
 permalink: /chicken-curry/
 image: "images/chicken-curry.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Satnam's Chicken Curry
 This is my chicken curry recipe, heavily influenced by the way my mother makes chicken curry. My mother only adds the ground spices _after_ she has added the pureed tomatoes. I incorporate dried fenugreek leaves which adds a nice sweet and nutty undertone.

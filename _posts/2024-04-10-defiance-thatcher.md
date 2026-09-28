@@ -1,11 +1,10 @@
 ---
 layout: personal
 title: "Defiance and Thatcher"
-description: "Defiance and Thatcher"
+description: "How racism, Thatcher-era unemployment and the story told in Defiance shaped my family growing up in Scotland."
 permalink: /defiance/
 image: "/images/ravenscraig.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Defiance and Thatcher
 Wednesday 10 April 2024
@@ -16,7 +15,7 @@ Wednesday 10 April 2024
 
 The story of "come to Britain and work on the buses and building sites" just seemed exploitative and transactional, and our second class status is still deeply ingrained in me even today. My school friends never believed me when I told them about the racial abuse and physical violence we suffered.
 
-I would get randomly stopped walking down the street and bundled into the back of a police van. To this day I still sometimes flinch when I see a policeman in the UK. We would pay to use to council/city baths once a week to get washed (the five of us lived in a bedsit with no bath/shower) and I recall one day trying in vain to scrub my skin, again and again, hoping desperately to scrape away the brown and become white and accepted by British society.
+I would get randomly stopped walking down the street and bundled into the back of a police van. To this day I still sometimes flinch when I see a policeman in the UK. We would pay to use the council/city baths once a week to get washed (the five of us lived in a bedsit with no bath/shower) and I recall one day trying in vain to scrub my skin, again and again, hoping desperately to scrape away the brown and become white and accepted by British society.
 
 However, racism seemed checkered, black and white, acute in some aspects of society, almost absent in others. It's as if my brown face was allowed in some aspects of British society, but barred from others. Education ended up being my only available path forward.
 

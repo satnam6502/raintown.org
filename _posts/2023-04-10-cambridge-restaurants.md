@@ -4,8 +4,7 @@ title: "Cambridge Restaurants"
 description: "An Ad Hoc List of Cambridge Restaurants"
 permalink: /cambridge-restaurants/
 image: "/images/kings.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # An Ad Hoc List of Cambridge Restaurants
 
@@ -31,8 +30,8 @@ The following Michelin starred restaurants won't serve me because I have celiac 
 Restaurants I have eaten at but have chosen not to include on my list above. You might like them better than I did e.g. if unlike me you don't have celiac disease.
 
 * [Navadhanya.](https://www.navadhanya.co.uk/) An Indian restaurant.
-* [Luk Thai at the Cricketers.](https://www.lukthai.com) Thai food in a pub.
-* [Hotel du Vin Bistro.](https://www.hotelduvin.com/locations/cambridge/bistro/dinner/) This used to be a favourite of mine back in the day.
+* Luk Thai at the Cricketers. Thai food in a pub.
+* [Hotel du Vin Bistro.](https://www.hotelduvin.com/locations/cambridge/) This used to be a favourite of mine back in the day.
 * [The Ivy.](https://ivycollection.com/restaurants/the-ivy-cambridge-brasserie)
 * [The Plough.](https://theploughcoton.co.uk/) Pub just to the west of Cambridge serving upscale pub food. This used to be a favourite of ours, but has taken a different turn of late.
-* [The Peking.](http://www.pekingrestaurantcambridge.com) Chinese restaurant catering to British tastes.
+* The Peking. Chinese restaurant catering to British tastes.

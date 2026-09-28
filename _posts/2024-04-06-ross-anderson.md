@@ -1,11 +1,10 @@
 ---
 layout: personal
 title: "Ross Anderson"
-description: "Ross Anderson"
+description: "Remembering my friend Ross Anderson, security engineering pioneer and bagpiper."
 permalink: /ross_anderson/
 image: "/images/ross_anderson.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Ross Anderson
 ![Ross Anderson](/images/ross_anderson.jpg)

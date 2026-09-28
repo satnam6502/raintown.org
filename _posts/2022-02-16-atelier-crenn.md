@@ -4,8 +4,7 @@ title: Atelier Crenn
 description: Dinner at Dominique Crenn's three star restaurant where the menu is described with poetry.
 permalink: /atelier-crenn/
 image: "/images/onion-white-pearl.jpg"
-tags:
-  author: satnam_singh
+author: Satnam Singh
 ---
 # Atelier Crenn
 16 February 2022
