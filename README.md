@@ -6,6 +6,10 @@ The site is built with [Jekyll](https://jekyllrb.com/) 4 using the `jekyll-theme
 
 ## Hosting
 
+[![raintown.org status](https://img.shields.io/website?url=https%3A%2F%2Fraintown.org&label=raintown.org&up_message=up&down_message=down)](https://raintown.org)
+
+The badge is checked live by [shields.io](https://shields.io) each time this page is viewed (GitHub may cache it for a few minutes). It only shows whether the site responds, not the droplet's load or disk use.
+
 > **The website is served by the web server on the DigitalOcean droplet
 > `oban.raintown.org`.** It is **not** served by GitHub Pages. This repository
 > only holds the source; nothing is published until the built site is copied
