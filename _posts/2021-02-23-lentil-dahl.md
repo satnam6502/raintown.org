@@ -3,7 +3,7 @@ layout: personal
 title: Lentil Dahl
 description: A warming feelgood lentil dahl.
 permalink: /lentil-dahl/
-image: "images/lentil-dahl.jpg"
+image: "/images/lentil-dahl.jpg"
 author: Satnam Singh
 ---
 # Lentil Dahl

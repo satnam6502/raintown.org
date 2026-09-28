@@ -3,7 +3,7 @@ layout: personal
 title: Crispy Spicy Okra
 description: Crunchy crispy okra that converts okra (lady finger) haters.
 permalink: /crispy-spicy-okra/
-image: "images/crispy-spicy-okra.jpg"
+image: "/images/crispy-spicy-okra.jpg"
 author: Satnam Singh
 ---
 # Crispy Spicy Okra

@@ -2,7 +2,7 @@
 
 Source for [raintown.org](https://raintown.org), Satnam Singh's personal website: mostly cooking, food and whisky, plus a few personal essays and some older technical material (the Lava HDL tutorial and a System Verilog Assertions tutorial).
 
-The site is built with [Jekyll](https://jekyllrb.com/) using the `jekyll-theme-minimal` theme.
+The site is built with [Jekyll](https://jekyllrb.com/) 4 using the `jekyll-theme-minimal` theme.
 
 ## Hosting
 
@@ -31,10 +31,10 @@ Historical note: the previous deployment copied the site to user `raintow`, fold
 
 ## Building locally
 
-Requires Ruby and Bundler.
+The site uses Jekyll 4.4, which needs Ruby 2.7 or later. macOS's built-in Ruby (2.6) is too old, so install Homebrew's (`brew install ruby`); the Makefile uses it automatically when present. Gems are installed into `vendor/bundle` (see `.bundle/config`).
 
 ```sh
-bundle install
+/opt/homebrew/opt/ruby/bin/bundle install
 make serve     # build, serve at http://localhost:4000 and rebuild on changes
 make build     # one-off build into _site/
 ```

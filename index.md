@@ -1,7 +1,7 @@
 ---
 layout: personal
 description: Satnam Singh's personal website.
-image: "images/satnam-frasca.jpg"
+image: "/images/satnam-frasca.jpg"
 ---
 # Satnam Singh's Personal Website
 
