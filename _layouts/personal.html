@@ -8,33 +8,6 @@
       .posts dd { margin: 0; overflow-wrap: anywhere; }
     </style>
 
-<meta name="twitter:site" content="@{{site.twitter.username }}" />
-<meta name="twitter:creator" content="@{{site.twitter.username }}" />
-<meta name="twitter:title" content="{{ page.title }}" />
-{% if page.description %}
-  <meta name="twitter:description"
-    content="{{ page.description }}">
-{% else %}
-  <meta name="twitter:description"
-    content="{{ page.content | strip_html | xml_escape
-      | truncate: 200 }}">
-{% endif %}
-
-{% if page.image %}
-<meta name="twitter:image" content="{{ page.image | absolute_url }}" />
-{% else %}
-<meta name="twitter:image" content="{{ site.logo | absolute_url }}" />
-{% endif %}
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FE5ZKRP2XF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-FE5ZKRP2XF');
-</script>
-
   </head>
   <body>
     <div class="wrapper">
