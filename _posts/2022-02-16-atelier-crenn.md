@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: Atelier Crenn
 description: Dinner at Dominique Crenn's three star restaurant where the menu is described with poetry.
 permalink: /atelier-crenn/

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: Cail Bruich
 description: Birthday dinner at the one star Glasgow restaurant Cail Bruich.
 permalink: /cail-bruich/

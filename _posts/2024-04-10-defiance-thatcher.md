@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Defiance and Thatcher"
 description: "How racism, Thatcher-era unemployment and the story told in Defiance shaped my family growing up in Scotland."
 permalink: /defiance/

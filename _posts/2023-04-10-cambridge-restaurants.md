@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Cambridge Restaurants"
 description: "An Ad Hoc List of Cambridge Restaurants"
 permalink: /cambridge-restaurants/
