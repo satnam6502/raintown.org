@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Aloo Baingan"
 description: "Aubergine and potato comfort food."
 permalink: /aloo_baingan/

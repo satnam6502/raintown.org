@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: Crispy Spicy Okra
 description: Crunchy crispy okra that converts okra (lady finger) haters.
 permalink: /crispy-spicy-okra/

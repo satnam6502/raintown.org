@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: Celiac Disease
 description: "Living with celiac disease, my experiments with relaxing a strict gluten-free diet, and tips for cooking for me."
 permalink: /celiac/

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: Satnam's Chicken Curry
 description: Based on my mother's chicken curry.
 permalink: /chicken-curry/

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: Lentil Dahl
 description: A warming feelgood lentil dahl.
 permalink: /lentil-dahl/

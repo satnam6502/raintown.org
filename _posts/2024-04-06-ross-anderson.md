@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Ross Anderson"
 description: "Remembering my friend Ross Anderson, security engineering pioneer and bagpiper."
 permalink: /ross_anderson/
